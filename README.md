@@ -1,5 +1,5 @@
 
-# v2.portfolio
+# Weather App
 
 This is my personal portfolio website built using Next.js and Tailwind CSS. It showcases my projects, skills, and provides information about my experience and contact details.
 
@@ -15,6 +15,7 @@ This is my personal portfolio website built using Next.js and Tailwind CSS. It s
 
 ## Demo
 
+![Screenshot 2023-06-13 222632](https://github.com/biswajeetbehera123/weather-app/assets/107670354/d5bda8bf-5bdc-4250-aed4-96b1a80b332b)
 
 
 You can visit the live website [here](https://weather-app-x.vercel.app/).
