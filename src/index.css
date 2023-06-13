@@ -49,6 +49,10 @@
   background-color: var(--section-overlay);
 }
 
+.section__temperature{
+  margin-top: 3rem;
+}
+
 .section__inputs>input{
   border: 0.8px solid white;
   border-radius: 0.4rem;
@@ -82,10 +86,11 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  margin-left: 3rem;
 }
 
 .icon>h3{
-  font-size: 15px;
+  font-size: 20px;
   font-weight: 200;
   text-transform: capitalize;
 }
@@ -94,3 +99,6 @@
   font-size: 60px;
 }
 
+.temperature{
+  margin-right: 3rem;
+}
