@@ -17,7 +17,7 @@ This is my personal portfolio website built using Next.js and Tailwind CSS. It s
 
 
 
-You can visit the live website [here](https://viditkushwaha.live/).
+You can visit the live website [here](https://weather-app-x.vercel.app/).
 
 ## Technologies Used
 
