@@ -15,7 +15,7 @@ This is my personal portfolio website built using Next.js and Tailwind CSS. It s
 
 ## Demo
 
-![Portfolio Screenshot]([https://drive.google.com/uc?export=view&id=18oe-Pnm7wneTMEJk0Rv_beDvhm6m9hW8](https://drive.google.com/file/d/15niP25aVzEZoK5oaq2qO8aYB7ohRsIRE/view))
+![Portfolio Screenshot](https://drive.google.com/file/d/15niP25aVzEZoK5oaq2qO8aYB7ohRsIRE)
 
 You can visit the live website [here](https://viditkushwaha.live/).
 
@@ -43,7 +43,7 @@ To run this portfolio website locally, follow these steps:
 
 2. Navigate to the project directory:
 
-```cd v2.portfolio```
+```cd weather-app```
 
 3. Install the dependencies:
 
