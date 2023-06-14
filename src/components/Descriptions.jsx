@@ -20,7 +20,7 @@ const Descriptions = ({ weather, units }) => {
       id: 2,
       icon: <FaArrowUp />,
       title: "Max",
-      data: weather.temp_max.toFixed() - (-7),
+      data: weather.temp_max.toFixed(),
       unit: tempUnit
     },
     {
