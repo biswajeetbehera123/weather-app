@@ -1,7 +1,6 @@
 
 # Weather App
 
-This is my personal portfolio website built using Next.js and Tailwind CSS. It showcases my projects, skills, and provides information about my experience and contact details.
 
 ## Table of Contents
 
