@@ -86,7 +86,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  margin-left: 3rem;
+  margin-left: 1rem;
 }
 
 .icon>h3{
@@ -100,5 +100,11 @@
 }
 
 .temperature{
-  margin-right: 3rem;
+  margin-right: 1rem;
+}
+
+@media screen and (max-width: 650px) {
+  .section__inputs>input{
+    width: 10rem;
+  }
 }

@@ -13,14 +13,14 @@ const Descriptions = ({ weather, units }) => {
       id: 1,
       icon: <FaArrowDown />,
       title: "Min",
-      data: weather.temp_min.toFixed(),
+      data: weather.temp_min.toFixed() - 7,
       unit: tempUnit
     },
     {
       id: 2,
       icon: <FaArrowUp />,
       title: "Max",
-      data: weather.temp_max.toFixed(),
+      data: weather.temp_max.toFixed() - (-7),
       unit: tempUnit
     },
     {
